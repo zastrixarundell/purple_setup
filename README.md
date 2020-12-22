@@ -2,6 +2,10 @@
 
 This is meant for `r/unixp*n`, and as a backup of my settings.
 
+## How it looks
+
+![Setup](https://raw.githubusercontent.com/zastrixarundell/purple_setup/main/my_setup.png)
+
 ## Themes
 
 * Applications: [Layan-dark-solid](https://www.gnome-look.org/p/1309214/)
@@ -17,13 +21,14 @@ Sound: Yaru
 * [Netspeed](https://extensions.gnome.org/extension/104/netspeed/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)
 
+## Background
+
+![Beach](https://raw.githubusercontent.com/zastrixarundell/purple_setup/main/beach.jpg)
+
+
 ## Terminal
 
 The terminal I use is `tilix`. I installed via `sudo apt-get instal tilix`.
-
-## Background
-
-![Background](https://lunawood.com/wp-content/uploads/2018/02/placeholder-image.png)
 
 ## Neofetch
 
@@ -33,4 +38,15 @@ To setup how I use neofetch:
 sudo mkdir /usr/share/neofetch_ascii
 sudo cp ./cat.txt /usr/share/neofetch_ascii/cat.txt
 echo 'neofetch --ascii_colors 16 243 237 177 7 e --ascii /usr/share/neofetch_ascii/cat.txt' >> ~/.zshrc
+```
+
+## VScode theme
+
+```
+Name: Ariake Dark
+Id: wart.ariake-dark
+Description: Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago
+Version: 0.2.2
+Publisher: wart
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark
 ```
