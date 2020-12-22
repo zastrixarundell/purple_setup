@@ -1,6 +1,6 @@
 # My purple setup
 
-This is meant for `r/unixp*n`, and as a backup of my settings.
+This is meant for `r/unixp*rn`, and as a backup of my settings.
 
 ## Content
 
@@ -10,6 +10,9 @@ This is meant for `r/unixp*n`, and as a backup of my settings.
 * [Background](#background)
 * [Terminal](#terminal)
 * [Shell](#shell)
+* [Neofetch](#neofetch)
+* [Music visualizer](#music-visualizer)
+* [VScode theme](#vscode-theme)
 
 ## How it looks
 
