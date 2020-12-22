@@ -1,0 +1,32 @@
+[/]
+quake-specific-monitor=0
+tab-position='bottom'
+terminal-title-show-when-single=false
+use-overlay-scrollbar=false
+warn-vte-config-issue=false
+window-style='normal'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#1F1F1F1F2727'
+background-transparency-percent=19
+badge-color-set=false
+badge-text=''
+bold-color-set=false
+bold-is-bright=false
+cursor-colors-set=false
+cursor-shape='ibeam'
+default-size-columns=112
+default-size-rows=36
+dim-transparency-percent=0
+font='Hack Nerd Font 12'
+foreground-color='#D3D3D7D7CFCF'
+highlight-colors-set=false
+notify-silence-enabled=false
+palette=['#252525', '#FFFF52525252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5', '#708284', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5']
+scroll-on-keystroke=true
+scroll-on-output=false
+scrollback-unlimited=false
+show-scrollbar=false
+use-system-font=false
+use-theme-colors=false
+visible-name='Default'
